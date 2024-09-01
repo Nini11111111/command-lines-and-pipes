@@ -1,2 +1,13 @@
 hello
 helloo
+PS D:\CTiB\command-lines-and-pipes> git add .
+PS D:\CTiB\command-lines-and-pipes> git commit -m hello
+[main d5dea3d] hello
+ 1 file changed, 1 insertion(+)
+PS D:\CTiB\command-lines-and-pipes> git push 
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (7/7), 469 bytes | 234.00 KiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
